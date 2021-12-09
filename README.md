@@ -12,6 +12,6 @@ To use this project, follow steps:
 ### Demonstration
 
 <p>
-<img align="left" src="https://github.com/Fatima-Mujahid/tesla-clone/blob/main/Resources/t1.jpeg" alt="tesla clone" width="400" height="800" />
-<img align="right" src="https://github.com/Fatima-Mujahid/tesla-clone/blob/main/Resources/t2.jpeg" alt="tesla clone" width="400" height="800" />
+<img src="https://github.com/Fatima-Mujahid/tesla-clone/blob/main/Resources/t1.jpeg" alt="tesla clone" width="400" height="800" />
+<img src="https://github.com/Fatima-Mujahid/tesla-clone/blob/main/Resources/t2.jpeg" alt="tesla clone" width="400" height="800" />
 </p>
